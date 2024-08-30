@@ -1,6 +1,5 @@
 public class MacM1:Laptop
 {
-
     public override void TurnOn(bool activeBois)
     {
         base.PoweronSelfTest();
