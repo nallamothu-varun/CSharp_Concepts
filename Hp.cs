@@ -1,6 +1,5 @@
 public class Hp : Laptop
 {
-
     public override void TurnOn(bool activeBois)
     {
         base.PoweronSelfTest();
